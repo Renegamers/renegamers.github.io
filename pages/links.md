@@ -9,5 +9,5 @@ layout: default
  * [Facebook](https://www.facebook.com/BCRenegamers/)
  * [Weebly](http://bcrenegamers.weebly.com)
  * [Email](https://mailto:bcrenegamers@gmail.com)
- * [League of Legends](https://youtu.be/OXfF69MGuDM)
+ * [League of Legends Download](http://na.leagueoflegends.com/en/client-update/download)
  * [Extra Life](www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=27383)
