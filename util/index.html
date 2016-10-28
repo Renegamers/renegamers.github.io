@@ -6,7 +6,7 @@ permalink: "/"
 <div class="home">
 
     {% assign agenda = (site.posts | where:"title","Agenda" | first) %}
-    {% if agenda.date >= site.time %}
+    {% if agenda.date !=> site.time %}
     <div id="nextmeeting">
     <h1 class="page-heading">Next Meeting</h1>
     <ul class="post-list">
