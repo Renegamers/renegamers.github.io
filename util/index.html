@@ -9,13 +9,12 @@ permalink: "/"
     {% if agenda.date > site.time %}
     <div id="nextmeeting">
     <h1 class="page-heading">Next Meeting</h1>
-        <h2> % site.time % </h2>
-    <ul class="post-list">
+            <ul class="post-list">
     <li><h2><a href="{{ agenda.url }}">{{ agenda.date | date: "%B %-d, %Y" }}</a></h2></li>
     </ul>
     </div>
     {% endif %}
-
+    <h2> site.time </h2>
     <h1 class="page-heading">Meeting Minutes</h1>
     <ul class="post-list">
         {% assign minutes = (site.posts | where:"title","Minutes") %}
