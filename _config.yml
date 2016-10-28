@@ -1,9 +1,9 @@
 DontShowPostsBefore: 2016-08-01t01:00:00.00-08:00
 
 # Site settings
-title: "Bakersfield College Computer Science Club"
-description: "Meetings are held the first and third Fridays of the month in room B5 from 1:00pm-3:00pm"
-url: "http://aicsc.github.io"
+title: "Campus Gamers at Bakersfield College"
+description: "Meetings are held the second and fourth Fridays of the month in room B5 from 1:00pm-4:00pm"
+url: "http://renegamers.github.io"
 baseurl: ""
 
 # Build settings
