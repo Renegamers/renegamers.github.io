@@ -23,6 +23,7 @@ gems:
 defaults:
   -
     scope:
+      path: "_posts/minutes"
       type: "posts"
     values:
       layout: "minutes"
