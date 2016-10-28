@@ -10,4 +10,4 @@ layout: default
  * [Weebly](http://bcrenegamers.weebly.com)
  * [Email](https://mailto:bcrenegamers@gmail.com)
  * [League of Legends Download](http://na.leagueoflegends.com/en/client-update/download)
- * [Extra Life](www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=27383)
+ * [Extra Life](http://www.extra-life.org/index.cfm?fuseaction=donorDrive.team&teamID=27383)
