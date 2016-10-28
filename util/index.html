@@ -14,7 +14,7 @@ permalink: "/"
     </ul>
     </div>
     {% endif %}
-    <h2> {{ site.time }} </h2>
+    <h2> {{ today }} </h2>
     <h1 class="page-heading">Meeting Minutes</h1>
     <ul class="post-list">
         {% assign minutes = (site.posts | where:"title","Minutes") %}
