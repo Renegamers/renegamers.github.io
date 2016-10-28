@@ -1,0 +1,44 @@
+DontShowPostsBefore: 2016-08-01t01:00:00.00-08:00
+
+# Site settings
+title: "Bakersfield College Computer Science Club"
+description: "Meetings are held the first and third Fridays of the month in room B5 from 1:00pm-3:00pm"
+url: "http://aicsc.github.io"
+baseurl: ""
+
+# Build settings
+encoding: "UTF-8"
+lang: "en-US"
+timezone: "America/Los_Angeles"
+lsi: false
+permalink: /:year/:month/:day/:title.html
+future: true
+sass:
+  style: compressed
+gems:
+  - jekyll-sass-converter
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "minutes"
+      title: "Minutes"
+  -
+    scope:
+      path: "_posts/agenda"
+      type: "posts"
+    values:
+      layout: "agenda"
+      title: "Agenda"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - readme.md
+  - script
+  - vendor
