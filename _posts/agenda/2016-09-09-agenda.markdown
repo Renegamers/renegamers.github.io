@@ -1,24 +1,40 @@
-1 CALL MEETING TO ORDER
-2 ROLL CALL (The purpose of this meeting is to organize a new club.)
+1. CALL MEETING TO ORDER
+
+2. ROLL CALL
+	(The purpose of this meeting is to organize a new club.)
 	Allow time for meeting participants to register their names and contact information into MyAttendanceTracker.com
-3 ADOPTION OF AGENDA (The Committee will discuss this agenda and may choose to amend or edit the agenda. Upon conclusion of the discussion the Committee must adopt the agenda.) 
-4 ADOPTION OF MINUTES (The Committee will discuss those minutes and may choose to amend or edit the minutes. Upon conclusion of the discussion the Committee must adopt the minutes.)
-	1 There are no minutes to be adopted at this meeting
-5 INDIVIDUAL REPORTS (The Chair shall recognize any executive officer of the Association, including the Advisor(s), to offer a report on official activities since the previous meeting and make any summary announcements deemed necessary for no longer than five minutes.)
-	1 Chair, President, Chad Hidalgo
-	2 ICC Representative, Alec Sherlock
-	3 Treasurer, VACANT
-	4 Advisor, Richard Miles and/or Manuel Fernandez
-6 UNFINISHED BUSINESS (Items listed in this agenda item have already been read or discussed once and thus are considered for approval of the committee )
-	1 There is no unfinished business at this time.
-7 NEW BUSINESS (Items listed in this agenda item have not already been read or discussed once and thus are considered for approval of the committee) 
-	1 Introduce organizing officers and advisors.
-	2 Introduce Constitution and Mission Statement
-	3 Introduce Extra Life Agenda
-	4 Introduce Fund Raising at the movies
-	5 Poll attendees for desired outcome
-	6 Introduce e-sports planning
-8 COMMENTS AND ANNOUNCEMENTS (The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
+	
+3. ADOPTION OF AGENDA 
+	(The Committee will discuss this agenda and may choose to amend or edit the agenda. Upon conclusion of the discussion the Committee must adopt the agenda.) 
+	
+4. ADOPTION OF MINUTES 
+	(The Committee will discuss those minutes and may choose to amend or edit the minutes. Upon conclusion of the discussion the Committee must adopt the minutes.)
+	
+	A. There are no minutes to be adopted at this meeting
+	
+5. INDIVIDUAL REPORTS 
+	(The Chair shall recognize any executive officer of the Association, including the Advisor(s), to offer a report on official activities since the previous meeting and make any summary announcements deemed necessary for no longer than five minutes.)
+	A. Chair, President, Chad Hidalgo
+	B. ICC Representative, Alec Sherlock
+	C. Treasurer, VACANT
+	D. Advisor, Richard Miles and/or Manuel Fernandez
+	
+6. UNFINISHED BUSINESS 
+	(Items listed in this agenda item have already been read or discussed once and thus are considered for approval of the committee )
+	
+	A. There is no unfinished business at this time.
+	
+7. NEW BUSINESS 
+	(Items listed in this agenda item have not already been read or discussed once and thus are considered for approval of the committee) 
+	A. Introduce organizing officers and advisors.
+	B. Introduce Constitution and Mission Statement
+	C. Introduce Extra Life Agenda
+	D. Introduce Fund Raising at the movies
+	E. Poll attendees for desired outcome
+	F. Introduce e-sports planning
+	
+8. COMMENTS AND ANNOUNCEMENTS 
+	(The Chair shall recognize in turn members requesting the floor for a period not to exceed three minutes.)
 	When business items are concluded the remaining time until 3:30 can be used for gaming of any type. Breakdown and clean-up must begin at 3:30 and be concluded by 4:00
 
-9 ADJOURNMENT 
+9. ADJOURNMENT 
